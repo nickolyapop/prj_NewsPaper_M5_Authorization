@@ -1,4 +1,4 @@
-# Учебный проект Django для студентов Skillfactory
+# NewsPaper проект Django. учебный модуль D5 -Авторизация и регистрация  (Skillfactory )
 
 ## Запуск проекта
 
